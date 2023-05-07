@@ -1,0 +1,25 @@
+/* All html objects will be wrapped in the #wrap div */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sigmar&display=swap');
+.goal-cont {
+    color: white;
+    background: linear-gradient(to right, #00000030, #FFFFFF00);
+  	font-family: 'Sigmar', cursive;
+  	text-align: center;
+  	margin: auto;
+		width: 1000px;
+  	border-radius: 20px 20px 0px 0px;
+  	height: 280px;
+  	border-color: #231d33;
+  	border-style: solid;
+}
+
+#title {
+  font-size: 48pt;
+}
+
+#goal-bar {
+  font-size: 100pt;
+  letter-spacing: 10px;
+  margin-top: -20px;
+  color: #70c27d;
+}
