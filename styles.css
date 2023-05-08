@@ -8,9 +8,10 @@
   	margin: auto;
 		width: 1000px;
   	border-radius: 20px 20px 0px 0px;
-  	height: 280px;
-  	border-color: #231d33;
+  	height: 300px;
+  	border-color: #273f3b;
   	border-style: solid;
+  	border-bottom: none;
 }
 
 #title {
